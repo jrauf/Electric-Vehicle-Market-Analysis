@@ -2,7 +2,7 @@
 
 Authors
 
-This project was developed by [Joshua Rauf] and [Zarah Khan] as a final prject for the course "Data Input and Manipulation" at the "Georgia Institute of Technology".
+This project was developed by [Joshua Rauf] and [Zarah Khan] in fall 2023 as a final prject for the course "Data Input and Manipulation" at the "Georgia Institute of Technology".
 
 Overview
 
